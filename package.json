@@ -1,0 +1,19 @@
+{
+  "name": "unicornridesite",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lalbritton99/UnicornRideSite.git"
+  },
+  "author": "Logan Albritton",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/lalbritton99/UnicornRideSite/issues"
+  },
+  "homepage": "https://github.com/lalbritton99/UnicornRideSite#readme"
+}
